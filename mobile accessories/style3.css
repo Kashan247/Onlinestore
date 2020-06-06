@@ -1,0 +1,115 @@
+.navbar{
+    background-color: #222629 !important;
+    
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+
+.newarrival{
+    margin-top: 60px;
+    
+}
+
+
+.btn-primary{
+    width: 100%;
+    background-color: #222629 ;
+
+}
+
+
+
+.heading{
+    text-align: center;
+    margin-top: 50px;
+    color: #222629 ;
+
+}
+
+
+
+.fa-cart-arrow-down,.fa-user{
+
+    font-size: 32px !important;
+    
+    }
+
+    
+.newarrival{
+    margin-top: 60px;
+    
+}
+
+
+.btn-primary{
+    width: 100%;
+    background-color: #222629 ;
+
+}
+
+.card{
+    width: 200px;
+    height: auto;
+    margin-bottom: 50px;
+
+}
+
+
+
+
+.footer{
+    width: 100%;
+    background-color: #222629;
+    padding-bottom: 70px;
+    height: 60px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.footer > div {
+    text-align: center;
+    align-items: center;
+
+}
+
+
+h4,h6{
+    color: wheat;
+}
+
+
+
+
+
+.dropdown-menu a:hover
+{
+	
+    color:white !important;
+	border-radius: 10px;
+    font-style: italic;
+
+	
+}
+
+
+.alert{
+    background-color: rgba(246, 246, 246, 0.794) !important;
+    
+}
+
+.heading>h1{
+    text-shadow: 1px 1px 3px rgb(78, 13, 13);
+}
+
+
+.nav-item a:hover{
+    background-color: grey;
+    border-radius: 30px;
+}
